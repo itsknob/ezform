@@ -1,0 +1,22 @@
+{
+  "name": "ezform",
+  "version": "0.0.0",
+  "description": "An easy to use form library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "Form",
+    "Input",
+    "Text",
+    "Date",
+    "Number",
+    "DateTime",
+    "File",
+    "Search",
+    "Select"
+  ],
+  "author": "Stephen Reilly",
+  "license": "MIT"
+}
